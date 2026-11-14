@@ -7,7 +7,7 @@ SHA-256: 2203bd4731a8fdc2a1c60e975fd79fd5985369e98a117df7ee43c528d3c85958
 MD5: d1e57c74bafa56e8e2641290d153f4d2
 SHA-1: 007b2c7d72a5a89b424095dbb7f67ff2aeddb277
 Size: 6144 bytes
-PE timestamp: 2004-03-17 16:34:32 UTC
+
 FileVersion: 1, 08, 05, 00
 ProductVersion: 1, 0, 0, 1
 OriginalFilename: NVoclock.RC
